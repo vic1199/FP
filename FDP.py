@@ -1,4 +1,3 @@
-import tkinter
 from tkinter import *
 import random
 from random import randrange
